@@ -8,8 +8,7 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 
 #### 22mm MOTOR
 
-<img src="assets/2.2_MOTOR_22_FRONT.JPG" width="250"> 
-<img src="assets/2.3_MOTOR_22_REAR.JPG" width="250">
+<img src="assets/2.2_MOTOR_22_FRONT.JPG" width="250"> <img src="assets/2.3_MOTOR_22_REAR.JPG" width="250">
 
 #### 25mm MOTOR
 
