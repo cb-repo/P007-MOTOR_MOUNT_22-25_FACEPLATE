@@ -159,6 +159,11 @@
           <WebAddressDataHolder>
             <MultiDataString>
               <DataString></DataString>
+              <DataString></DataString>
+              <DataString></DataString>
+              <DataString></DataString>
+              <DataString></DataString>
+              <DataString></DataString>
               <DataString>https://github.com/cb-repo/P007-MOTOR_MOUNT_22-25_FACEPLATE/tree/v1.0</DataString>
             </MultiDataString>
           </WebAddressDataHolder>
@@ -215,7 +220,7 @@
             <IsVertical>False</IsVertical>
             <LineTextSpan>
               <TextSpan>
-                <Text>22/25mm MOTOR</Text>
+                <Text>Motor Mount </Text>
                 <FontInfo>
                   <FontName>Arial Rounded MT</FontName>
                   <FontSize>6</FontSize>
@@ -232,7 +237,37 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>FACEPLATE MOUNT</Text>
+                <Text>22/25mm </Text>
+                <FontInfo>
+                  <FontName>Arial Rounded MT</FontName>
+                  <FontSize>6</FontSize>
+                  <IsBold>True</IsBold>
+                  <IsItalic>False</IsItalic>
+                  <IsUnderline>False</IsUnderline>
+                  <FontBrush>
+                    <SolidColorBrush>
+                      <Color A="1" R="0" G="0" B="0"></Color>
+                    </SolidColorBrush>
+                  </FontBrush>
+                </FontInfo>
+              </TextSpan>
+              <TextSpan>
+                <Text>Faceplate</Text>
+                <FontInfo>
+                  <FontName>Arial Rounded MT</FontName>
+                  <FontSize>6</FontSize>
+                  <IsBold>True</IsBold>
+                  <IsItalic>False</IsItalic>
+                  <IsUnderline>False</IsUnderline>
+                  <FontBrush>
+                    <SolidColorBrush>
+                      <Color A="1" R="0" G="0" B="0"></Color>
+                    </SolidColorBrush>
+                  </FontBrush>
+                </FontInfo>
+              </TextSpan>
+              <TextSpan>
+                <Text />
                 <FontInfo>
                   <FontName>Arial Rounded MT</FontName>
                   <FontSize>6</FontSize>
@@ -249,7 +284,7 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>v1.0 (2 pack)</Text>
+                <Text>v1.0</Text>
                 <FontInfo>
                   <FontName>Arial Rounded MT</FontName>
                   <FontSize>6</FontSize>
@@ -318,54 +353,7 @@
             <IsVertical>False</IsVertical>
             <LineTextSpan>
               <TextSpan>
-                <Text>Designed and </Text>
-                <FontInfo>
-                  <FontName>Arial Rounded MT</FontName>
-                  <FontSize>5</FontSize>
-                  <IsBold>True</IsBold>
-                  <IsItalic>False</IsItalic>
-                  <IsUnderline>False</IsUnderline>
-                  <FontBrush>
-                    <SolidColorBrush>
-                      <Color A="1" R="0" G="0" B="0"></Color>
-                    </SolidColorBrush>
-                  </FontBrush>
-                </FontInfo>
-              </TextSpan>
-              <TextSpan>
-                <Text>a</Text>
-                <FontInfo>
-                  <FontName>Arial Rounded MT</FontName>
-                  <FontSize>5</FontSize>
-                  <IsBold>True</IsBold>
-                  <IsItalic>False</IsItalic>
-                  <IsUnderline>False</IsUnderline>
-                  <FontBrush>
-                    <SolidColorBrush>
-                      <Color A="1" R="0" G="0" B="0"></Color>
-                    </SolidColorBrush>
-                  </FontBrush>
-                </FontInfo>
-              </TextSpan>
-              <TextSpan>
-                <Text>ssembled </Text>
-                <FontInfo>
-                  <FontName>Arial Rounded MT</FontName>
-                  <FontSize>5</FontSize>
-                  <IsBold>True</IsBold>
-                  <IsItalic>False</IsItalic>
-                  <IsUnderline>False</IsUnderline>
-                  <FontBrush>
-                    <SolidColorBrush>
-                      <Color A="1" R="0" G="0" B="0"></Color>
-                    </SolidColorBrush>
-                  </FontBrush>
-                </FontInfo>
-              </TextSpan>
-            </LineTextSpan>
-            <LineTextSpan>
-              <TextSpan>
-                <Text>in New Zealand</Text>
+                <Text>Designed in New Zealand</Text>
                 <FontInfo>
                   <FontName>Arial Rounded MT</FontName>
                   <FontSize>5</FontSize>
@@ -383,12 +371,12 @@
           </FormattedText>
           <ObjectLayout>
             <DYMOPoint>
-              <X>0.09871639</X>
+              <X>0.1156267</X>
               <Y>0.23</Y>
             </DYMOPoint>
             <Size>
               <Width>0.857802</Width>
-              <Height>0.4737096</Height>
+              <Height>0.1890444</Height>
             </Size>
           </ObjectLayout>
         </TextObject>
