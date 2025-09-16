@@ -22,7 +22,6 @@ Developed, assembled, and tested in [Christchurch, New Zealand](https://www.goog
 - **Dimensions:** 35x35x1.6 mm
 - **Weight:** 3.5g each
 - **Material:** FR4 (Fiberglass)
-- **Included in Package:** 2x Faceplates, 8x M3x12 Button Head Screws + Nuts.
 
 ## PACKAGE INCLUDES
 
