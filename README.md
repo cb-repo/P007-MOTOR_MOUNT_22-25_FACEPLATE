@@ -2,9 +2,9 @@
 
 <img src="assets/1.0_FACEPLATES.JPG" width="400"> 
 
-Each FACEPLATE is designed to easily and rigidly panel mount a single 22 or 25mm motor to your desired chassis. This product was orignially designed for beetle weight combat robotics but is suitable as a sustitute mount for any application using these motors. 
+Each FACEPLATE is designed to easily and rigidly panel mount a single 22 or 25mm motor to your desired chassis. This product was orignially designed for combat robotics but is suitable as a mount for any application using these motors. 
 
-This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based product by [cb-technology](https://www.cb-technology.co.nz/), Connor Benton.
+Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
 #### 22mm MOTOR
 
@@ -23,6 +23,12 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 - **Weight:** 3.5g each
 - **Material:** FR4 (Fiberglass)
 - **Included in Package:** 2x Faceplates, 8x M3x12 Button Head Screws + Nuts.
+
+## PACKAGE INCLUDES
+
+- 2x 22/25mm MOTOR FACEPLATE MOUNT
+- 4x M2x4 for Mounting 22mm Motor
+- 2x M3x6 for Mounting 25mm Motor
 
 ## FACEPLATE INSTALL PATTERN
 
